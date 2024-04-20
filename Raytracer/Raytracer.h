@@ -1,0 +1,11 @@
+#pragma once
+
+
+
+//#define WINDOW_WIDTH 1920
+//#define WINDOW_HEIGHT 1200
+//#define RENDERTARGET_WIDTH 1920
+//#define RENDERTARGET_HEIGHT 1200
+
+
+
